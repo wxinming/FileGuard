@@ -1,5 +1,6 @@
 # FileGuard
-windows os file monitoring
+Windows操作系统文件监控类库。
+
 ```
 #include "FileGuard.h"
 #include <stdio.h>
@@ -45,3 +46,5 @@ int main()
 	return 0;
 }
 ```
+
+![项目展示图片](./images/show.png "项目展示图片")
