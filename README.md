@@ -46,5 +46,3 @@ int main()
 	return 0;
 }
 ```
-
-![项目展示图片](./images/show.png "项目展示图片")
