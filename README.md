@@ -1,7 +1,7 @@
 # FileGuard
 Windows操作系统文件监控类库。
 
-```
+```c++
 #include "FileGuard.h"
 #include <stdio.h>
 int main()
